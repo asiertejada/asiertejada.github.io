@@ -36,7 +36,7 @@ layout: default
         </h2>
 
         {% if post.featured_image %}
-          <a class="featured-image featured-image-bw" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}"><img src="{{ site.url }}/assets/img/{{ post.featured_image }}" alt="{{ post.title }}" width="720" height="350" /></a>   
+          <a class="featured-image featured-image-bw" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}"><img src="{{ site.url }}/assets/img/720/{{ post.featured_image }}" alt="{{ post.title }}" /></a>   
         {% endif %} 
         <section class="post-excerpt">
           <p>{{ post.excerpt }}</p>
