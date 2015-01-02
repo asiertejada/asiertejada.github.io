@@ -415,6 +415,13 @@ a.post-link {
     word-spacing: 5px;
     margin: 0 0 22px 0;
     color: #444;
+    
+    @media all and (max-device-width: 320px) {
+  	width: auto;
+  	font-size: 32px;
+  	line-height: 37px;
+  }
+}
 }
 
 a.post-link:hover {
