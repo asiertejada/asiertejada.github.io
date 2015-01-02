@@ -1,0 +1,20 @@
+# Site settings
+title: asiertejada.com
+email: asiertejada@gmail.com
+description: El blog de Asier Tejada Osegui
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+logo: logo.png
+excerpt_separator: <Sigue Leyendo>
+
+# Social settings
+twitter_username: PTT69BIO
+facebook_username: asiertejada
+google_username: asiertejada
+github_username:  asiertejada
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+paginate:    5
+paginate_path: "page:num"

@@ -1,0 +1,15 @@
+<div class="pagination">
+  <div class="pagination-inside">
+    {% if paginator.previous_page %}
+      <div class="previous">
+        <a href="{{ paginator.previous_page_path }}">Entradas Más Recientes</a>
+      </div>
+    {% endif %}
+  
+    {% if paginator.next_page %}
+      <div class="next">
+        <a href="{{ paginator.next_page_path }}">Entradas Más Antiguas</a>
+      </div>
+    {% endif %}
+  </div>
+</div>

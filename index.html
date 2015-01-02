@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<div class="home">
+    
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="post-meta">
+          {{ post.date | date: "%-d" }}
+          {% assign m = post.date | date: "%-m" %}  
+            {% case m %}
+              {% when '1' %}Enero
+              {% when '2' %}Febrero
+              {% when '3' %}Marzo
+              {% when '4' %}Abril
+              {% when '5' %}Mayo
+              {% when '6' %}Junio
+              {% when '7' %}Julio
+              {% when '8' %}Agosto
+              {% when '9' %}Septiembre
+              {% when '10' %}Octubre
+              {% when '11' %}Noviembre
+              {% when '12' %}Diciembre
+            {% endcase %}
+          {{ post.date | date: "%Y" }}
+        </span>
+
+        <h2>
+          {% if post.external_url %}
+            <a class="post-link external" href="{{ post.external_url}}">{{ post.title }}</a>
+          {% else %}
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          {% endif %}
+        </h2>
+
+        {% if post.featured_image %}
+          <a class="featured-image featured-image-bw" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}"><img src="{{ site.url }}/assets/img/{{ post.featured_image }}" alt="{{ post.title }}" width="720" height="350" /></a>   
+        {% endif %} 
+        <section class="post-excerpt">
+          <p>{{ post.excerpt }}</p>
+        </section>
+        <div class="excerpt-link">
+          <a href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}">Sigue Leyendo</a>  
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+<!-- Original HTML
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+-->  
+</div>
+
+<!--
+<div class="infinite-spinner"></div>
+-->
