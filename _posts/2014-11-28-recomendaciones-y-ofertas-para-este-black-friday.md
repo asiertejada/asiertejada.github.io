@@ -41,7 +41,7 @@ El juego que puso de poda Ellen DeGeneres en Estados Unidos. Tiene su aquel.
 * **TextExpander 3** (*Universal*) 4,49 € → [0,89 €](https://itunes.apple.com/es/app/textexpander-3-+-custom-keyboard/id917416298?mt=8&uo=4&at=1l3v5kR&uo=4&at=1l3v5kR&ct=blog)
 No me cansaré de recomendarlo. Un imprescindible de la productividad a precio de ganga.
 
-* **Warhammer Quest** (*iPad*) 4,49 € → [0,89 €] (https://itunes.apple.com/es/app/warhammer-quest/id573516833?mt=8&uo=4&at=1l3v5kR&uo=4&at=1l3v5kR&ct=blog)
+* **Warhammer Quest** (*iPad*) 4,49 € → [0,89 €](https://itunes.apple.com/es/app/warhammer-quest/id573516833?mt=8&uo=4&at=1l3v5kR&uo=4&at=1l3v5kR&ct=blog)
 Si creciste jugando al *Hero Quest* este es tu juego. Poco más que decir.
 
 * **Space Hulk** (*iPad*) 8,99 € → [2,69 €](https://itunes.apple.com/es/app/space-hulk/id742022720?mt=8&uo=4&at=1l3v5kR&uo=4&at=1l3v5kR&ct=blog)
