@@ -183,71 +183,6 @@ a.site-title:hover {
 /**
  * Site footer
  */
-/*.site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
-}
-
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
-}
-
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-*/
 .site-footer {
     background: black;
     display: block;
@@ -415,13 +350,6 @@ a.post-link {
     word-spacing: 5px;
     margin: 0 0 22px 0;
     color: #444;
-    
-    @media all and (max-device-width: 320px) {
-  	width: auto;
-    max-width: 100%;
-  	font-size: 32px;
-  	line-height: 37px;
-  }
 }
 
 a.post-link:hover {
@@ -675,14 +603,14 @@ a.external:after {
     padding: 80px $spacing-unit / 2;
 }
 
-/*@media all and (max-width: 800px), all and (max-device-width: 320px) {
+@media all and (max-width: 800px), all and (max-device-width: 320px) {
   .post-title h1 {
   	left: 0;
   	width: auto;
   	font-size: 32px;
   	line-height: 37px;
   }
-}*/
+}
 
 .tag-box {
     font-family: 'Lato', 'Helvetica Neue', Helvetica;
