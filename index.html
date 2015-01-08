@@ -27,13 +27,15 @@ layout: default
           {{ post.date | date: "%Y" }}
         </span>
 
-        <h2>
+        <div class="post-link">
+          <h2>
           {% if post.external_url %}
             <a class="post-link external" href="{{ post.external_url}}">{{ post.title }}</a>
           {% else %}
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           {% endif %}
-        </h2>
+          </h2>
+          </div>
 
         {% if post.featured_image %}
           <a class="featured-image featured-image-bw" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}"><img src="{{ site.url }}/assets/img/720/{{ post.featured_image }}" alt="{{ post.title }}" /></a>   

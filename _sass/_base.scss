@@ -21,6 +21,10 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    
+    @include media-query($on-mobile) {
+            font-size: 18px;
+        }
 }
 
 
@@ -95,6 +99,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', 'Helvetica Neue', Helvetica;
     font-weight: 900;
+    line-height: 1.12;
 }
 
 
@@ -135,6 +140,11 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+    
+    @include media-query($on-mobile) {
+        font-size: 16px;
+        padding-left: $spacing-unit / 3;
+    }
 }
 
 blockquote > p:before {
@@ -143,6 +153,10 @@ blockquote > p:before {
 	padding-right: 10px;	
 	font-size: inherit;
 	line-height: inherit;
+    
+    @include media-query($on-mobile) {
+        padding-right: 5px;
+    }
 }
 
 blockquote > p:after {
@@ -208,12 +222,12 @@ p > code {
     padding-left: $spacing-unit;
     @extend %clearfix;
 
-/*    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    @include media-query($on-mobile) {
+        max-width: -webkit-calc(#{$on-mobile} - (#{$spacing-unit}));
+        max-width:         calc(#{$on-mobile} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
-    }*/
+    }
 }
 
 

@@ -49,7 +49,6 @@ a.site-title:hover {
     font-weight: 300;
     font-style: italic;
     letter-spacing: 0;
-    color:#71bdff;
     color: rgba(255,255,255, .45);
     margin: 0;
     display: inline-block;
@@ -77,69 +76,8 @@ a.site-title:hover {
             margin-left: 20px;
         }
     }
-
-/*   @include media-query($on-palm) {
-        position: absolute;
-        top: 30px;
-        right: 30px;
-        background-color: $brand-color;
-        border: 1px solid #fff;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: #fff;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }*/
 }
 
-@media only screen and (max-width: 640px) {
-    a.site-title {
-        display: block;
-        width: 129px;
-        margin: 0 auto;
-        float: none;
-        text-align: center;
-    }
-    
-    .site-description, .site-nav {
-        display: block;
-        float: none;
-        text-align: center;
-    }
-    
-    
-}
 
 
 /**
@@ -195,12 +133,7 @@ a.site-title:hover {
 	padding-left: 5px;	
 }
 
-@media only screen and (max-width: 640px) {
-    .pagination .previous, .pagination .next {
-        float: none;
-        text-align: center;
-    }
-}
+
 
 /**
  * Site footer
@@ -283,28 +216,6 @@ span.github:hover i.fa-github {
     color: white;
 }
 
-@media only screen and (min-width: 640px) {    
-    .site-footer-inside {
-        padding: 0px 25px;
-    }
-    
-    .site-footer .social-icons,
-    .site-footer .copyright {
-        width: auto;
-        padding: 5rem 0;
-    }
-    
-    .site-footer .copyright {
-        text-align: left;
-        float: left;
-    }
-    
-    .site-footer .social-icons {
-        text-align: right;
-        float: right;
-    } 
-}
-
 .cf:before,
 .cf:after {
   content: " ";
@@ -313,10 +224,11 @@ span.github:hover i.fa-github {
 .cf:after {
   clear: both; }
 
+
+
 /**
  * Page content
  */
-
 .page-header .page-title {
     width: 100%;
     height: auto;
@@ -333,6 +245,10 @@ h1.page-title {
     text-transform: uppercase;
     word-spacing: 5px;
     margin: 0;
+    
+    @include media-query($on-mobile) {
+        font-size: 45px;
+    }
 }
 
 .page-content {
@@ -350,6 +266,7 @@ h1.page-title {
 
     > li {
         margin-bottom: $spacing-unit / 5;
+        border-bottom: solid 1px #eee;
     }
 }
 
@@ -364,6 +281,13 @@ h1.page-title {
 	display: inline-block;
 }
 
+.post-link h2 {
+    width: 100%;
+    left: 0;
+    position: relative;
+    line-height: 56px;
+}
+
 a.post-link {
     font-size: 50px;
     line-height: 56px;
@@ -372,6 +296,7 @@ a.post-link {
     word-spacing: 5px;
     margin: 0 0 22px 0;
     color: #444;
+    width: 100%;
 }
 
 a.post-link:hover {
@@ -441,14 +366,22 @@ div.excerpt-link {
 	line-height: 16px;
 }
 
+
+
 /**
  * Posts
  */
-.post-header .post-title {
-    width: 100%;
+
+.post-header { 
+    height: 50vw;
+}
+
+.post-title {
+    width: 90%;
+    margin: 0 auto;
     height: auto;
-    position: absolute;
-    top: 30vw;
+    position: relative;
+    bottom: 224px;
     text-align: center;
 }
 
@@ -498,11 +431,6 @@ a.external:after {
 	line-height: inherit;
 }
 
-.post-title h2 {
-  color: rgba(255, 255, 255, 0.65098);
-  text-align: center;
-}
-
 .full-featured-image {
     width: 100%;
     -webkit-filter: contrast(80%);
@@ -546,7 +474,6 @@ a.external:after {
     color: $brand-color;
     background-color: #fff;
     border-color: $brand-color;
-//    outline-color: #fff;
 }
 
 .reading-time {
@@ -572,11 +499,10 @@ a.external:after {
 
     h2 {
         font-size: 32px;
-        line-height: 1.12;
         padding-top: $spacing-unit;
         padding-bottom: 12px;
         
-        @include media-query($on-laptop) {
+        @include media-query($on-mobile) {
             font-size: 28px;
         }
     }
@@ -584,7 +510,7 @@ a.external:after {
     h3 {
         font-size: 26px;
 
-        @include media-query($on-laptop) {
+        @include media-query($on-mobile) {
             font-size: 22px;
         }
     }
@@ -592,7 +518,7 @@ a.external:after {
     h4 {
         font-size: 20px;
 
-        @include media-query($on-laptop) {
+        @include media-query($on-mobile) {
             font-size: 18px;
         }
     }
@@ -625,26 +551,17 @@ a.external:after {
     padding: 80px $spacing-unit / 2;
 }
 
-@media all and (max-width: 800px), all and (max-device-width: 320px) {
-  .post-title h1 {
-  	left: 0;
-  	width: auto;
-  	font-size: 32px;
-  	line-height: 37px;
-  }
-}
 
+
+/**
+* Tags and Categories
+*/
 .tag-box {
     font-family: 'Lato', 'Helvetica Neue', Helvetica;
     padding: 4px 0;
     margin: 0;
     overflow: hidden;
     list-style: none;
-}
-
-.tag-box a:hover {
-    border: 0.0625rem solid $contrast-color;
-    color: $contrast-color;
 }
 
 .tag-box:after,.tag-box:before {
@@ -667,14 +584,118 @@ a.external:after {
     padding: 4px 6px;
     margin: 2px;
     text-decoration: none;
-    border: 0.0625rem solid #aaa;
+    text-transform: uppercase;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
+    background-color: $brand-color;
+    color: #fff;
+}
+
+.tag-box a:hover {
+    background-color: $contrast-color;
+    
+    span {
+        color: $contrast-color;
+    }
 }
 
 .tag-box a span {
+    display: inline-block;
     font-size: 10px;
-    vertical-align: super;
-    color: #aaa;
+    line-height: normal;
+    text-align: center;
+    vertical-align: text-bottom;
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    background-color: #fff;
+    color: $brand-color;
+    padding: 1px;   
+}
+
+
+/**
+* Media Queries
+*/
+@media all and (max-device-width: $on-mobile) {
+    .post-link h2 {
+        line-height: 37px;
+    }
+    
+    a.post-link {
+        font-size: 32px;
+        line-height: 37px;
+        word-spacing: 3px;
+    }
+    
+    .post-header {
+        height: 48vw;
+    }
+    
+    .post-title h1 {
+   	    width: auto;
+  	    font-size: 20px;
+  	    line-height: 22px; 
+        position: relative;
+        top: 130px;
+    }
+}
+
+@media all and (min-device-width: $on-mobile) and (max-device-width: 700px) {
+    .post-title h1 {
+   	    width: auto;
+  	    font-size: 26px;
+  	    line-height: 29px; 
+        position: absolute;
+        top: 100px;
+    }
+}
+
+
+@media only screen and (max-width: $on-mobile) {
+    a.site-title {
+        display: block;
+        width: 129px;
+        margin: 0 auto;
+        float: none;
+        text-align: center;
+    }
+    
+    .site-description, .site-nav {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+
+    .wrapper {
+        width: auto;
+    }
+    
+    .pagination .previous, .pagination .next {
+        float: none;
+        text-align: center;
+    }
+}
+    
+@media only screen and (min-width: 420px) { 
+    .site-footer-inside {
+        padding: 0px 25px;
+    }
+    
+    .site-footer .social-icons,
+    .site-footer .copyright {
+        width: auto;
+        padding: 5rem 0;
+    }
+    
+    .site-footer .copyright {
+        text-align: left;
+        float: left;
+    }
+    
+    .site-footer .social-icons {
+        text-align: right;
+        float: right;
+    }
 }
