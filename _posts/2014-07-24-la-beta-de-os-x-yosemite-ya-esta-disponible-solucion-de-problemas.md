@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:
+title: La Beta de OS X Yosemite Ya Está Disponible - Solución de Problemas
 date: 2014-07-24 23:55:00
 categories: blog
 tags: apple mac osx yosemite beta
