@@ -4,7 +4,7 @@ title: Consigue el Nuevo Álbum de U2 Gratis
 date: 2014-09-10 00:12:00
 categories: blog
 tags: apple gratis itunes keynote música u2
-featured_image: consigue-el-nuevo-album-de-u2-gratis.png
+featured_image: consigue-el-nuevo-album-de-u2-gratis.jpeg
 images_folder: consigue-el-nuevo-album-de-u2-gratis
 ---
 Antes de acabar el evento especial de hoy, sobre el que escribiremos más adelante, *Apple* confirmaba la bomba que se había rumoreado. El nuevo álbum de *U2* gratis para los subscriptores de *iTunes*.<Sigue Leyendo> 
