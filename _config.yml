@@ -18,3 +18,7 @@ markdown: kramdown
 permalink: /:title
 paginate:    5
 paginate_path: "page:num"
+
+# Plugins
+gems:
+  - jekyll-sitemap
