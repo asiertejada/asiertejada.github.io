@@ -13,6 +13,9 @@ facebook_username: asiertejada
 google_username: asiertejada
 github_username:  asiertejada
 
+# Analytics tracking code
+google_analytics: UA-40728880-1
+
 # Build settings
 markdown: kramdown
 permalink: /:title
