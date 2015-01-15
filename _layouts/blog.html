@@ -45,14 +45,10 @@
     <div class="post-content">
       <div class="wrapper">
         {{ content }}
-            
-        {% if page.external_url %}
-          <div class="external"><a href="{{ page.url }}">&infin;</a></div>
-        {% endif %}
           
           {% include meta.html %}
           
-         {% include share.html %}
+          {% include share.html %}
       </div>
     </div>
       

@@ -24,7 +24,10 @@ layout: default
               {% when '11' %}Noviembre
               {% when '12' %}Diciembre
             {% endcase %}
-          {{ post.date | date: "%Y" }}
+          {{ post.date | date: "%Y" }} 
+          {% if post.external_url %} -
+            <span class="external-meta"><a href="{{ post.url }}">&infin;</a></span>
+          {% endif %}
         </span>
 
         <div class="post-link">
