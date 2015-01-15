@@ -19,7 +19,7 @@ layout: null
             <p><img src="{{ site.url }}/assets/img/720/{{ post.featured_image }}" alt="{{ post.title }}" /></p>
           {% endif %}
           {{ post.content | xml_escape }}
-          {% if page.external_url %}
+          {% if post.external_url %}
           <p><a href="{{ page.url }}">&infin;</a></p>
           {% endif %}
           <hr><p><strong><a rel="nofollow" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></strong> fue publicado originalmente en <strong><a href="http://www.asiertejada.com">asiertejada.com - El blog de Asier Tejada Osegui</a></strong>.</p><p>Puedes seguir a su autor en <strong><a href="https://twitter.com/PTT69BIO">Twitter</a></strong> o en <strong><a href="https://alpha.app.net/ptt69bio">App.net</a></strong>.</p>
