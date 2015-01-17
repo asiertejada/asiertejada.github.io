@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Adiós WordPress. Hola Jekyll.
+title: Adiós WordPress. Hola Jekyll
 date: 2015-01-17 11:26:00
 categories: blog
 tags: github jekyll wordpress 
