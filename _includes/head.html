@@ -11,11 +11,12 @@
     
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-
+    
     
     
   <!-- Canonical URL -->
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">
+  <link rel="canonical" href="{{ page.url | replace:'index.html/','' | prepend: site.baseurl | prepend: site.url }}/">
+
     
     
   <!-- CSS -->    
@@ -60,13 +61,7 @@
     <meta property="og:image" content="{{ site.url }}/assets/img/el-blog-de-asier-tejada-osegui-el-retorno.png">
   {% endif %}
 
-
     
-<!--  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-    <link rel="canonical" href="{{ canonical }}">
-    <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-
-
     
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
