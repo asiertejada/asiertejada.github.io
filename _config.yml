@@ -3,7 +3,7 @@ title: asiertejada.com
 email: asiertejada@gmail.com
 description: El blog de Asier Tejada Osegui
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://asiertejada.github.io" # the base hostname & protocol for your site
+url: "http://asiertejada.com" # the base hostname & protocol for your site
 logo: logo.png
 excerpt_separator: <Sigue Leyendo>
 
