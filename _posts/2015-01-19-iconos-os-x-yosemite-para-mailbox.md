@@ -14,7 +14,7 @@ Tras haber pasado un breve período probando el nuevo cliente para *Gmail* de *G
 Y así que este fin de semana, en el garbeo dominical que me pego por *Dribbble* y otras webs de diseño me topé con este [concepto de icono para reemplazar la aplicación de serie de *Mail* en *Yosemite*](https://dribbble.com/shots/1855458-Mail-Yosemite-Icon-Replacement-Concept?list=users&offset=5) creado por [Charles Aroutiounian](https://dribbble.com/charlesaroutiounian), en el que además su autor nos adjunta el archivo para *Sketch*.
 
 <figure markdown="1">
-![Concepto de Icono para Reemplazar Mail en Yosemite]({{ site.url }}/assets/img/{{ page.images_folder }}/mail-yosemite-icon-replacement-charles-aroutiounian)
+![Concepto de Icono para Reemplazar Mail en Yosemite]({{ site.url }}/assets/img/{{ page.images_folder }}/mail-yosemite-icon-replacement-charles-aroutiounian.png)
 <figcaption>Concepto de Icono para Reemplazar Mail en Yosemite</figcaption>
 </figure>
 
