@@ -4,8 +4,8 @@ title: "Iconos OS X Yosemite: Mailbox"
 date: 2015-01-19 00:30:00
 categories: iconos
 tags: apple iconos ios osx mailbox yosemite
-featured_image: iconos-os-x-yosemite-para-mailbox.jpg
-images_folder: iconos-os-x-yosemite-para-mailbox
+featured_image: iconos-os-x-yosemite-mailbox.jpg
+images_folder: iconos-os-x-yosemite-mailbox
 ---
 No se me ocurre mejor manera para reestrenar este blog que con un nuevo icono para *OS X*. Esta vez la afortunada es *Mailbox*.<Sigue Leyendo>
 
