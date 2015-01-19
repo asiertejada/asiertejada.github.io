@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Iconos OS X Yosemite: Mailbox
+title: "Iconos OS X Yosemite: Mailbox"
 date: 2015-01-19 00:30:00
 categories: iconos
 tags: apple iconos ios osx mailbox yosemite
