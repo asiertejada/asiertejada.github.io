@@ -8,7 +8,7 @@ featured_image: manzanas-podridas.png
 images_folder:
 external_url: https://medium.com/@jmml97/como-manzanas-usadas-colabora-con-los-estafadores-9a1cb04ec65d
 ---
-Hoy me gustaría llamar la atención sobre el caso *Manzanas Usadas*, que lleva toda la tarde revolucionando *Twitter* y buena parte de la *blogosfera*. Ante la proliferación de webs de venta de segunda mano, muchas de dudosa reputación, no queda más remedio que echar mano de la precaución<Sigue Leyendo>
+Hoy me gustaría llamar la atención sobre el caso *Manzanas Usadas*, que lleva toda la tarde revolucionando *Twitter* y buena parte de la *blogosfera*. Ante la proliferación de webs de venta de segunda mano, muchas de dudosa reputación, no queda más remedio que echar mano de la precaución.<Sigue Leyendo>
 
 Me parece alucinante lo que explica José María en su *post* de *Medium*, [*"Cómo Manzanas Usadas colabora con los estafadores"*](https://medium.com/@jmml97/como-manzanas-usadas-colabora-con-los-estafadores-9a1cb04ec65d).
 
