@@ -20,7 +20,7 @@ Desde la distancia, con la escasa información que hay del tema, y sin querer po
 
 > El problema es que al firmar el albarán aceptas que el producto anunciado y el recibido es el mismo y que comienzan los 5 días de validación del mismo.
 
-Primero, eso de entrada no es así. Tú lo que verificas es que el paquete este en buenas condiciones y no que el producto funcione correctamente [^1]. Segundo, ¿dónde está el problema? Se verifica 
+Primero, eso de entrada no es así. Tú lo que verificas es que el paquete esté en buenas condiciones y no que el producto funcione correctamente [^1]. Segundo, ¿dónde está el problema? Se verifica en los 5 días de validación y si algo no es correcto pues se devuelve.
 
 [^1]: Imaginemos el *improbable* caso de que el teléfono de segunda mano en cuestión llegue con la batería a cero.
 
