@@ -38,3 +38,11 @@ Ah, y no compréis en *Manzanas Usadas* ni locos.
 
 **P.S.:** Iñigo Merino lo deja aún mucho más claro en [*Hipertextual*](http://hipertextual.com/2015/01/manzanas-usadas-crisis), y desmonta por completo la (como el sentido común ya nos decía) absurda defensa de *Manzanas Usadas* .
 
+**ACTUALIZACIÓN (21/01/2015)**: En la jornada de ayer *Manzanas Usadas* se puso en contacto con este blog para intentar esclarecer los hechos y aportar más datos. 
+
+Apenas horas después, el presunto comprador estafado ([@jmml97](https://twitter.com/jmml97)) ha borrado su entrada en *Medium* y ha hecho privada su cuenta de *Twitter*. Parece que se empiezan a esclarecer los hechos. 
+
+Si bien seguimos opinando que la gestión de la problemática por parte de *Manzanas Usadas* dejó bastante que desear, lo que también parece claro es que sus sospechas respecto al comprador en base a la información recabada tenían fundamento (sus formas no). 
+
+Esperamos que *Manzanas Usadas* tome las medidas oportunas para que hechos como los sucedidos no vuelvan a tener lugar, y así recuperar su maltrecha reputación probablemente puesta en entredicho de forma injusta.
+
