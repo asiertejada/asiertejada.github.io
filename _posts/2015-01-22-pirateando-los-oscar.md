@@ -19,3 +19,5 @@ No por ser más o menos consciente de algo se lleva uno menor sorpresa. Que las 
 > Hasta entonces, los votantes de la Academia que esperen revisar películas en *HD* en sus casas tendrán que hacerlo como los piratas: coger las palomitas, apagar las luces y arrancar *BitTorrent*.
 
 <cite>—**Andy Baio** ([@waxpancake](https://twitter.com/waxpancake)), Organizador del [Festival *XOXO*](http://www.xoxofest.com)</cite>
+
+**Fuente:** [*Pirating the 2015 Oscars HD Edition*](https://medium.com/message/pirating-the-2015-oscars-hd-edition-6c78e0cb471d)
