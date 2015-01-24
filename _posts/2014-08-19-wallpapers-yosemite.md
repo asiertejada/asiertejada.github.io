@@ -22,3 +22,5 @@ Entre los numerosos cambios, la mayoría de ellos estéticos como nos cuentan en
 ![ ]({{ site.url }}/assets/img/{{ page.images_folder }}/yosemite-5.jpg)  
   
 Si no tienes acceso a la mencionada *Developer Preview*, pero no quieres esperar a que se publique la versión definitiva de *OS X Yosemite* para disfrutar de los nuevos y espectaculares *wallpapers*, puedes descargarlos (junto con el que se pudo ver en la *keynote* de la *WWDC*) en el siguiente enlace.
+
+**Descarga:** [*Wallpapers OS X Yosemite*](https://dl.dropboxusercontent.com/u/8761235/Wallpapers%20Yosemite.zip)
