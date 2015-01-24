@@ -30,7 +30,7 @@ Y *voilà*, ya tenemos nuestra aplicación *"nativa"* para *OS X* lista para ocu
 
 **BONUS:** Si has llegado hasta aquí y quieres aplicar el proceso explicado anteriormente, seguro que los iconos que he creado a partir del de *Overcast* para *iPhone* te pueden interesar.
 
-## AÑADIR ENLACE A DEVIANTART
+**Descarga:** [Iconos *Overcast* para *Mac*](https://dl.dropboxusercontent.com/u/8761235/Overcast%20Icons%20for%20Mac.zip)
 
 
 
