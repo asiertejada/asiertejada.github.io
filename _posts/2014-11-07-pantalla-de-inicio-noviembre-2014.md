@@ -21,7 +21,7 @@ Para este mes de noviembre entran bastantes aplicaciones nuevas y, curiosamente,
 ### Las que salen:
 
 #### [*Mailbox*](https://itunes.apple.com/es/app/mailbox/id576502633?mt=8&uo=4&at=1l3v5kR&ct=blog) - Gratuita (Universal)
-Tuve la fortuna de conseguir una invitación para [*Inbox*](https://itunes.apple.com/es/app/inbox-by-gmail-la-bandeja/id905060486?mt=8&uo=4&at=1l3v5kR&ct=blog) [^1], la nueva *app* para *Gmail* creada por el equipo de desarrollo de la adquirida [*Sparrow*](!itu), así que esto ha hecho que *Mailbox* pase a estar en una carpeta y pendiendo de un hilo de ser desinstalada [^2]. 
+Tuve la fortuna de conseguir una invitación para [*Inbox*](https://itunes.apple.com/es/app/inbox-by-gmail-la-bandeja/id905060486?mt=8&uo=4&at=1l3v5kR&ct=blog) [^1], la nueva *app* para *Gmail* creada por el equipo de desarrollo de la adquirida [*Sparrow*](https://itunes.apple.com/es/app/sparrow/id417250177?mt=12&uo=4&at=1l3v5kR&ct=blog), así que esto ha hecho que *Mailbox* pase a estar en una carpeta y pendiendo de un hilo de ser desinstalada [^2]. 
 
 [^1]: Tras mendigar por varias redes sociales. Pero bueno, fue cosa de unas horas dando la brasa, y el resultado ha merecido la pena.
 
