@@ -42,7 +42,7 @@ Es cierto que soy muy fan del diseño de *Inbox*, y por ende del [*Material Desi
 
 En ese sentido, la propuesta de *Mailbox* es claramente superior y de ahí que haya vuelto a usarla en *OS X*, motivo por el cual su retorno a las pantallas de inicio de mis *iCacharros* estaba cantado.
 
-### [*You Need A Budget*](https://itunes.apple.com/es/app/you-need-a-budget-ynab/id372076250?mt=8&uo=4&at=1l3v5kR&ct=blog) - Gratuita (Universal)
+#### [*You Need A Budget*](https://itunes.apple.com/es/app/you-need-a-budget-ynab/id372076250?mt=8&uo=4&at=1l3v5kR&ct=blog) - Gratuita (Universal)
 Este año por fin he convencido a mi media naranja[^4] para que empecemos a usar [*You Need A Budget*](http://www.youneedabudget.com/) (*"Necesitas un Presupuesto"* en castellano) para controlar nuestras finanzas.
 
 [^4]: Que siempre es mucho más escéptica de entrada que el que escribe estas líneas acerca de los beneficios que el uso de algunas aplicaciones puede generar.
@@ -59,7 +59,7 @@ Si necesitas controlar tus finanzas, esta es tu *app*.
 
 [^7]: Que sin ser de una dificultad extrema sí que requiere su tiempo.
 
-#### [*Tuenti*](https://itunes.apple.com/es/app/tuenti-llama-y-chatea/id349705795?mt=8&uo=4&at=1l3v5kR&ct=blog) 
+#### [*Tuenti*](https://itunes.apple.com/es/app/tuenti-llama-y-chatea/id349705795?mt=8&uo=4&at=1l3v5kR&ct=blog) - Gratuita (Universal)
 Como algunos ya sabréis, mi operador móvil es [*Tuenti Móvil*]({{ site.url }}/telefonia-movil-sin-ataduras/). Su elección en su día no fue casual, sino que, como por motivos laborales me desplazo frecuentemente al extranjero, la opción de desactivar la tarifa de datos durante unos meses y volver a activarla a mi regreso con tan sólo un clic me es de gran utilidad.
 
 Por si eso fuera poco, la [tarifa que disfruto]({{ site.url }}/telefonia-movil-sin-ataduras/) viene acompañada de 50 minutos de llamadas [*VoIP*](https://es.wikipedia.org/wiki/Voz_sobre_Protocolo_de_Internet) a números nacionales y llamadas *VoIP* ilimitadas entre *Tuentis*, con lo que a día de hoy me basta y me sobra para mis necesidades personales.
@@ -86,7 +86,7 @@ Sorprendentemente, una de las *apps* fijas en mi *dock* en todos estos años aba
 
 [^9]: Aunque ya tengo en mente su vuelta al *dock* puesto que una vez añada a [*Launch Center Pro*](https://itunes.apple.com/es/app/launch-center-pro/id532016360?mt=8&uo=4&at=1l3v5kR&ct=blog) todos los flujos de trabajo de [*Workflow*](https://itunes.apple.com/es/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1l3v5kR&ct=blog), esta última dejará de tener sentido en el *dock*. 
 
-#### [*1Password*](https://itunes.apple.com/es/app/1password/id568903335?mt=8&uo=4&at=1l3v5kR&ct=blog) - Universal (Gratuita con compras dentro de la *app*) 
+#### [*1Password*](https://itunes.apple.com/es/app/1password/id568903335?mt=8&uo=4&at=1l3v5kR&ct=blog) - Gratuita con compras dentro de la *app* (Universal)
 Si bien es una aplicación indispensable en mi *iPhone*, la potencia de su extensión, el número creciente de *apps* que se integran con ella y la posibilidad de buscar en ella desde[ *Launch Center Pro*](https://itunes.apple.com/es/app/launch-center-pro/id532016360?mt=8&uo=4&at=1l3v5kR&ct=blog) han conseguido que abandone su lugar privilegiado en el *dock*.
 
 ### Las que entran:
@@ -94,7 +94,7 @@ Si bien es una aplicación indispensable en mi *iPhone*, la potencia de su exten
 #### *Ajustes*
 Una de las secuelas de mi paso por el *jailbreak* es la manía de apagar los datos cuando estoy bajo cobertura *Wi-Fi*. Sin embargo, las huestes de Cupertino aún no han estimado oportuno habilitar dicha opción en el *Centro de Control* de *iOS*. Es por ello que siempre me gusta tener a mano la aplicación de *Ajustes*, bien en el *homescreen* bien en el *dock*.
 
-#### [*Workflow*](https://itunes.apple.com/es/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1l3v5kR&ct=blog) - Universal (1,99 €)
+#### [*Workflow*](https://itunes.apple.com/es/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1l3v5kR&ct=blog) - 1,99 € (Universal)
 He aquí a una de las aplicaciones que han generado gran parte de los cambios en la *homescreen*.
 
 Siendo breves y sin entrar en detalles, digamos que [*Workflow*](https://itunes.apple.com/es/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1l3v5kR&ct=blog) vendría a ser una especie de [*Automator*](http://support.apple.com/es-es/HT2488) para *iOS*. Sólo con esto, y siendo un fanático de la automatización como soy, no es de extrañar que *Workflow* tuviese destinado un lugar de privilegio en mis *iCacharros*.
@@ -103,7 +103,7 @@ Pero, aparte de sus bondades, el hecho de que los flujos de trabajo de [*Workflo
 
 Para aquellos interesados en [*Workflow*](https://itunes.apple.com/es/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1l3v5kR&ct=blog), os dejo el [extenso análisis](http://hipertextual.com/archivo/analisis/workflow/) que ha realizado otro viejo conocido de este blog, Asier García Morato, para Hipertextual.
 
-#### [*Launch Center Pro*](https://itunes.apple.com/es/app/launch-center-pro/id532016360?mt=8&uo=4&at=1l3v5kR&ct=blog) - Universal (4,99 €)
+#### [*Launch Center Pro*](https://itunes.apple.com/es/app/launch-center-pro/id532016360?mt=8&uo=4&at=1l3v5kR&ct=blog) - 4,99 € (Universal)
 A pesar de haberla comprado hace tiempo, el hecho de tener el *jailbreak* hecho a mi *iPhone* hizo que nunca acabase de aprovechar todas las características de [*Launch Center Pro*](https://itunes.apple.com/es/app/launch-center-pro/id532016360?mt=8&uo=4&at=1l3v5kR&ct=blog) y que al final acabase por ser desinstalada.
 
 Sin embargo, a raíz de haber abandonado el *jailbreak* y de la publicación de *Workflow*, he descubierto por qué [*Launch Center Pro*](https://itunes.apple.com/es/app/launch-center-pro/id532016360?mt=8&uo=4&at=1l3v5kR&ct=blog) me soluciona muchos de los entuertos *post-jailbreak* a la vez que me facilita otros muchos aspectos del día a día con mis dispositivos *iOS*.  
