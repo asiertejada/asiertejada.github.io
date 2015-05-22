@@ -71,10 +71,10 @@ Luego *Jekyll* cumplía con creces los requisitos mínimos preestablecidos, espe
 
 [^8]: Tan reducido o no, como nosotros queramos.
 
-## El nuevo alojamiento y algo más: *Github Pages*
-La última ventaja, y otro de los factores decisivos del cambio a *Jekyll*, consiste en la posibilidad de alojar nuesta web gratuitamente en [*Github*](http://es.wikipedia.org/wiki/GitHub) a través de su servicio [*Pages*](https://pages.github.com).
+## El nuevo alojamiento y algo más: *GitHub Pages*
+La última ventaja, y otro de los factores decisivos del cambio a *Jekyll*, consiste en la posibilidad de alojar nuesta web gratuitamente en [*GitHub*](http://es.wikipedia.org/wiki/GitHub) a través de su servicio [*Pages*](https://pages.github.com).
 
-Pero no sólo nos ahorraremos el tener que contratar un servicio de *hosting*, sino que a su vez disfrutaremos de un control de versiones [^9] y podremos realizar el desarrollo de nuestro blog en local [^10]. En otras palabras, podremos trastear con nuestro blog en nuestra máquina y, una vez estemos satisfechos con el resultado, lo volcaremos a nuestro repositorio en *Github* con un sólo clic para que sea publicado automáticamente.
+Pero no sólo nos ahorraremos el tener que contratar un servicio de *hosting*, sino que a su vez disfrutaremos de un control de versiones [^9] y podremos realizar el desarrollo de nuestro blog en local [^10]. En otras palabras, podremos trastear con nuestro blog en nuestra máquina y, una vez estemos satisfechos con el resultado, lo volcaremos a nuestro repositorio en *GitHub* con un sólo clic para que sea publicado automáticamente.
 
 [^9]: Y aprenderemos [*Git*](http://es.wikipedia.org/wiki/Git) de paso.
 
