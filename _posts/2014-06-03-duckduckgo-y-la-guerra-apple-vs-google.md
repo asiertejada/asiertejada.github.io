@@ -4,7 +4,7 @@ title:  DuckDuckGo y la Guerra Apple vs. Google
 date:   2014-06-03 22:13:00
 categories: blog
 tags: apple duckduckgo google privacidad wwdc
-featuredimage: duckduckgo-y-la-guerra-apple-vs-google.png
+featured_image: duckduckgo-y-la-guerra-apple-vs-google.png
 images_folder: duckduckgo-y-la-guerra-apple-vs-google
 ---
 Hace un par de semanas *Apple* y *Google* firmaban una paz en la guerra de las patentes. Sin embargo, la guerra filosófica entre ambos gigantes no ha terminado aún. La inclusión de la posibilidad de incluir *DuckDuckGo* como buscador por defecto en *Safari*, tanto en *iOS* 8 como en *OS X* 10.10, así lo demuestra.<Sigue Leyendo>  
