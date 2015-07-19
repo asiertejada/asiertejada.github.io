@@ -15,13 +15,13 @@ Si bien en él, y al igual que en la entrada de Gruber, se vuelve a ahondar sobr
   
 Sin querer quitaros el placer de su lectura, aquí os dejo un par de detalles del mismo, empezando por Johnny Ive:
   
-> "Es muy duro para todos nosotros ser pacientes. Fue duro para Steve. Es duro para Tim".
+> Es muy duro para todos nosotros ser pacientes. Fue duro para Steve. Es duro para Tim.
 
 <cite>—[**Johnatan Ive**](https://www.apple.com/es/pr/bios/jonathan-ive.html), Vicepresidente Senior de Diseño de *Apple*, sobre la llegada de nuevos productos e innovación por parte de *Apple*.</cite>    
       
 Y continuando por el propio Tim Cook marcando territorio:  
 
-> "Hacemos las cosas porque son correctas y justas. Si queréis que tome decisiones que tengan un RSI[^2] claro, entonces deberiáis dejar el accionariado, simple y llanamente".
+> Hacemos las cosas porque son correctas y justas. Si queréis que tome decisiones que tengan un RSI[^2] claro, entonces deberiáis dejar el accionariado, simple y llanamente.
 
 <cite>—**Tim Cook** ([@tim_cook](https://twitter.com/tim_cook)), *CEO* de *Apple*, en la reunión anual de accionistas de Apple del 28 de Febrero de 2014. </cite> 
  
