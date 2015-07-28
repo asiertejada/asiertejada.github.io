@@ -350,8 +350,12 @@ a.post-link:hover {
     line-height: 30px;
 	color: #aaa;
 	border-bottom: solid 1px #eee;
-	border-top: solid 1px #eee;
+	border-top: solid 1px #eee;   
 }
+
+.post-excerpt > p {
+        margin-bottom: 15px;
+    }
 
 div.excerpt-link {
     margin: 16px 0 100px 0;
