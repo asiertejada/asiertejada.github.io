@@ -311,7 +311,8 @@ p > code {
     height: 100%;
 }
 
-.embeddedtweet-tweet {
+blockquote.twitter-tweet {
+    display: inline-block;
     margin: 100px auto;
 }
 
