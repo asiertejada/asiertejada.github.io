@@ -52,7 +52,7 @@ Bueno, pues tras este recordatorio de [Perogrullo](https://es.wikipedia.org/wiki
 <figcaption>Calendario fijo internacional — Imagen cortesía del <a href="http://www.iisg.nl/collections/matter-of-time/fixed-calendar-1.php"><em>International Institute of Social History</em></a></figcaption>
 </figure>
 
-Salta a la vista que con un calendario como el descrito presenta numerosas ventajas, entre ellas:
+Salta a la vista que un calendario como el descrito presenta numerosas ventajas, entre ellas:
 
 * Todos los meses tienen 28 días
 * Todos los meses están formados por 4 semanas
@@ -62,7 +62,7 @@ Salta a la vista que con un calendario como el descrito presenta numerosas venta
 
 [^7]: Pero claro, estamos hablando del 24 de febrero del calendario fijo, que sería el 21 de febrero de nuestro calendario gregoriano. En el calendario *Kodak*, nuestro 24 de febrero sería el 27 de febrero, viernes para más datos.
 
-Pero claro, si bien esta propuesta alternativa de calendario es mucho más  lógica y racional[^8], y de entrada tiene todas las papeletas para incrementar la productividad por el mero hecho de constiutir un sistema más simple, también cuenta con un obstáculo insalvable a la hora de su adopción: todas las fechas señaladas de nuestro calendario saltan por los aires.
+Pero claro, si bien esta propuesta alternativa de calendario es mucho más  lógica y racional[^8], y de entrada tiene todas las papeletas para incrementar la productividad por el mero hecho de constituir un sistema más simple, también cuenta con un obstáculo insalvable a la hora de su adopción: todas las fechas señaladas de nuestro calendario saltan por los aires.
 
 Me explico. Pongamos el 25 de diciembre, navidad. Con el calendario fijo dicho día caería en el 23 de diciembre. Explíquele usted a mi señora madre que la navidad la han cambiado al día 23.
 
@@ -82,4 +82,4 @@ Pero bueno,  quién sabe si dentro de decenas o cientos de generaciones el calen
 No toda la esperanza está perdida, Mr. Eastman, no toda.
 
 **Fuente:** [*99% Invisible*](http://99percentinvisible.org/episode/the-calendar/)  
-**Imagen destacada:** Logo propiedad de [*Kodak Eastman Company*](http://www.kodak.com/) . Todos los derechos reservados.
+**Imagen destacada:** Logo propiedad de [*Kodak Eastman Company*](http://www.kodak.com/). Todos los derechos reservados.
