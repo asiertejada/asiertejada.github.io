@@ -9,7 +9,7 @@ images_folder: descarga-automatica-de-series-y-subtitulos
 ---
 Durante tiempo he buscado la manera de automatizar la descarga de series de TV, que normarmente bajo en V.O., y la de sus correspondientes subtítulos (también en la lengua nativa de la serie). Gracias a herramientas como *TVShows 2* la descarga automática era posible, pero el bajar automáticamente los subtítulos, mediante el uso de la estupenda *Hazel*, era bastante más complicado, requeriendo incluso el uso de complejos *scripts* que no siempre funcionaban. Eso ha llegado a su fin, creo que he encontrado el flujo de trabajo definitivo (al menos para mis necesidades).<Sigue Leyendo>
 
-> Esta entrada toma como base este [artículo](http://albertoperojo.com/post/20710041818/descarga-de-series-tv-shows2-transmission-hazel) de Alberto Pérez Rojo, que a su vez referenciaba a este [otro ya mítico](http://www.nahumgarcia.com/hazel) de Nahúm García.
+Esta entrada toma como base este [artículo](http://albertoperojo.com/post/20710041818/descarga-de-series-tv-shows2-transmission-hazel) de Alberto Pérez Rojo, que a su vez referenciaba a este [otro ya mítico](http://www.nahumgarcia.com/hazel) de Nahúm García.
 
 ## Descargar Series de TV Manualmente  
 Como siempre me ha gustado seguir las series de TV del momento, generalmente estadounidenses o británicas[^1], la única alternativa para no sucumbir a los *spoilers* omnipresentes en internet y en las redes sociales mientras alguna cadena estatal se dignaba a estrenar la serie en cuestión, no ha sido otra que descargar los capítulos de dichas series en Versión Original (V.O.).  
@@ -256,7 +256,7 @@ Por último, y en paralelo a la anterior, haremos que *Hazel* ejecute una últim
 <figcaption>Hazel - Cerrar aplicación Subtítulos</figcaption>
 </figure>
 
-El código del script será el siguiente:  
+El código del script será el siguiente:
 
 {% highlight bash %}  
 tell application "Subtitles" to quit  
