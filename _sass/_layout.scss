@@ -657,7 +657,7 @@ a.external:after {
     }
 }
 
-@media all and (min-width: $on-mobile) and (max-width: 700px) {
+@media all and (min-width: $on-mobile) and (max-width: 736px) {
     .post-title h1 {
    	    width: 100%;
   	    font-size: 28px;
