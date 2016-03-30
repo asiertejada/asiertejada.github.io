@@ -40,7 +40,7 @@ ul, ol, dl, figure,
 }
 
 p {
-    margin-bottom: 45px;
+    margin-bottom: $spacing-unit;
 }
 
 /**
@@ -57,7 +57,6 @@ figure {
     display: block;
     margin: 0 auto;
     max-width: 100%;
-    text-align: center;
 }
 
 figure.screenshot {
@@ -66,6 +65,7 @@ figure.screenshot {
 
 figure > p {
    text-align: center;
+   margin-bottom: $spacing-unit / 2;
 }
 
 figure figcaption {
@@ -73,10 +73,14 @@ figure figcaption {
     font-family: 'Lato', 'Helvetica Neue', Helvetica;
     font-size: small;
     font-weight: bold;
-    height: 60px;
+    height: 90px;
     margin: 0 auto;
     text-align: center;
     vertical-align: top;
+}
+
+figure > pre {
+    margin-bottom: $spacing-unit * 1.5;
 }
 
 /**
@@ -89,12 +93,12 @@ ul, ol {
 li {
     > ul,
     > ol {
-         margin-bottom: 15;
+         margin-bottom: $spacing-unit;
     }
 }
 
 li:last-child {
-    margin-bottom: 60px;
+    margin-bottom: $spacing-unit * 1.5;
 }
 
 
@@ -177,6 +181,7 @@ cite {
     display: inline-block;
     font-size: 18px;
     line-height: 25px;
+    height: 45px;
     font-style: normal;
 }
 
@@ -300,7 +305,7 @@ p > code {
     overflow: hidden; 
     max-width: 100%; 
     height: auto;
-    margin-bottom: 30px;
+    margin-bottom: $spacing-unit * 1.5;
 } 
 
 .embed-container iframe, .embed-container object, .embed-container embed {
@@ -314,6 +319,10 @@ p > code {
 blockquote.twitter-tweet {
     display: inline-block;
     margin: 100px auto;
+}
+
+div.gist-file {
+    margin-bottom: $spacing-unit * 1.5 !important;
 }
 
 
