@@ -258,8 +258,8 @@ Por último, y en paralelo a la anterior, haremos que *Hazel* ejecute una últim
 
 El código del script será el siguiente:
 
-{% highlight bash %}  
-tell application "Subtitles" to quit  
+{% highlight bash %}
+tell application "Subtitles" to quit
 {% endhighlight %}
 
 El funcionamiento de esta parte del flujo de trabajo se puede observar en el siguiente *screencast*:  
