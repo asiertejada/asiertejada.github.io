@@ -4,8 +4,10 @@ email: asiertejada@gmail.com
 description: El blog de Asier Tejada Osegui
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.asiertejada.com" # the base hostname & protocol for your site
+#url: "http://127.0.0.1:4000" # for local testing
 logo: logo.png
 excerpt_separator: <Sigue Leyendo>
+timezone: Europe/Madrid
 
 # Social settings
 twitter_username: PTT69BIO
@@ -20,7 +22,7 @@ google_analytics: UA-40728880-1
 markdown: kramdown
 permalink: /:title/
 paginate:    5
-paginate_path: "page:num"
+paginate_path: "page:num"   
 
 # Plugins
 gems:
