@@ -86,9 +86,10 @@ a.site-title:hover {
 .pagination {
     font-family: 'Lato', 'Helvetica Neue', Helvetica;
     line-height: 30px;
-	display: inline-block;
+	display: block;
 	width: 100%;
-	padding: 0px 0px 26px 0px;
+	padding: $spacing-unit 0px $spacing-unit*2 0px;
+    background-color: $background-color;
 
 }
 
@@ -252,7 +253,8 @@ h1.page-title {
 }
 
 .page-content {
-    padding: $spacing-unit 0;
+    padding-top: $spacing-unit;
+    background-color: $background-color;
 }
 
 .page-heading {
@@ -384,6 +386,7 @@ div.excerpt-link {
 
 .post-header { 
     height: 50vw;
+    background-color: $background-color;
 }
 
 .post-title {
@@ -505,8 +508,8 @@ a.external:after {
 }
 
 .post-content {
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit;
+    padding-top: $spacing-unit;
+    background-color: $background-color;
 
     h2 {
         font-size: 32px;
