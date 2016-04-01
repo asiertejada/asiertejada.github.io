@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Previsualizando Posts de Jekyll con Marked
-date: 2016-04-01 10:00:00
+date: 2016-04-01 09:00:00 +0100
 categories: blog
 tags: byword jekyll marked ruby
 featured_image: previsualizando-posts-de-jekyll-con-marked.png
