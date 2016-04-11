@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: ¿Un Apple Watch más delgado?
-date: 2016-04-11 09:00:00 +0200
+date: 2016-04-11 09:00:00
 categories: enlazados
 tags: 
 - apple
