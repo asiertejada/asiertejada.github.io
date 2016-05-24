@@ -10,7 +10,7 @@ excerpt_separator: <Sigue Leyendo>
 timezone: Europe/Madrid
 
 # Social settings
-twitter_username: PTT69BIO
+twitter_username: asiertejada
 facebook_username: asiertejada
 google_username: +AsierTejadaOsegui
 github_username:  asiertejada
@@ -22,7 +22,7 @@ google_analytics: UA-40728880-1
 markdown: kramdown
 permalink: /:title/
 paginate:    5
-paginate_path: "page:num"   
+paginate_path: "page:num"
 
 # Plugins
 gems:
