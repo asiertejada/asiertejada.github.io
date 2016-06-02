@@ -9,8 +9,10 @@ images_folder: pantalla-de-inicio-mayo-2016
 external_url:
 ---
 Meses después vuelvo a escribir de nuevo sobre la pantalla de inicio de mi *iPhone*. Desde la última entrada, dos borradores se han quedado en el tintero: el de Agosto de 2015 y el de Octubre de 2015, mes en el que estrené mi actual *iPhone 6S Plus*. Aunque esos no han sido los únicos *iCacharros* que han entrado en mi vida en los últimos tiempos.<Sigue Leyendo>
-    
-## Breve Repaso de los Cambios Acontecidos
+
+
+## Breve Repaso de los Cambios Acontecidos  
+  
 Antes de empezar a hablar sobre la actual *homescreen* de mi *iPhone*, y dado que la última vez que hablé de ella fue en febrero del 2015, me gustaría comentar brevemente los cambios que han tenido lugar desde aquella lejana última ocasión.
 
 <figure markdown="1">
