@@ -1,7 +1,7 @@
       <section class="post-meta-section">
-        <span class="post-meta">Publicado el 
+        <span class="post-meta">Publicado el
           {{ page.date | date: "%-d" }} de
-          {% assign m = page.date | date: "%-m" %}  
+          {% assign m = page.date | date: "%-m" %}
             {% case m %}
               {% when '1' %}Enero
               {% when '2' %}Febrero
@@ -17,12 +17,12 @@
               {% when '12' %}Diciembre
             {% endcase %}
            de {{ page.date | date: "%Y" }}
-           en <a href="/categories.html/#{{ page.categories }}">{{ page.categories }}</a>
+           en <a href="/categories.html#{{ page.categories }}">{{ page.categories }}</a>
         </span>
           <div class="post-meta">
             {% for tag in page.tags %}
                 <a class="post-tag" href="/tags.html#{{ tag }}"> {{ tag | prepend: '#'}}</a>
             {% endfor %}
               </div>
-       
+
       </section>
