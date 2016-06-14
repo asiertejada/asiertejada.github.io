@@ -7,7 +7,7 @@ url: "http://www.asiertejada.com" # the base hostname & protocol for your site
 #url: "http://127.0.0.1:4000" # for local testing
 logo: logo.png
 excerpt_separator: <Sigue Leyendo>
-timezone: Europe/Madrid
+timezone: '+0100'
 
 # Social settings
 twitter_username: asiertejada
