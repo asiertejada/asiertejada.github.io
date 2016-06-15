@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/asiertejada
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.asiertejada.com
+  * I am asiertejada (https://keybase.io/asiertejada) on keybase.
+  * I have a public key with fingerprint 12D5 ADFE 3091 F349 0348  391B 2090 844F 4468 9C4D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101cac14ac61c201bc7f69d350dc1aa67df90fe5f6771386bae64e605bb13feb0240a",
+            "fingerprint": "12d5adfe3091f3490348391b2090844f44689c4d",
+            "host": "keybase.io",
+            "key_id": "2090844f44689c4d",
+            "kid": "0101cac14ac61c201bc7f69d350dc1aa67df90fe5f6771386bae64e605bb13feb0240a",
+            "uid": "4138c139b43ca4f5eba48d10f5bffd19",
+            "username": "asiertejada"
+        },
+        "service": {
+            "hostname": "www.asiertejada.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466030442,
+    "expire_in": 157680000,
+    "prev": "3585fdd4376736fbdaac38c15057a6e73e12bc1b4de0e560e48cda881678d6dc",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIsAnicrZJ7iA1RHMfv3uuxtjZbFIowtOuP2zrnzpkzM5fQJq9ikVaWdZ3X7M5e
+9841M7vXui2JZfMKeaWEFVGbYjetJFZS7Ir8sZLNO49EyiO1Xmc2yh/+dP45nXM+
+3+/5/n79rhdGQgV5F+e2fXx06GRfXlfn8brQUvKgNqdQhzco8ZySFP2bWM2F5yeS
+NlfiCoAAMsIgIgxDFgOQMt3CJlc1wBkkBOvcMoElNAvrOlQNTInASGCgUQpVS1AQ
+Q4AoUcWy09XCzbh22pe2MMY1wi2hAhNaKjKBigzVhDQGTGAgZCGEDZMhLoU1jhco
+ZDhKPFFqO/JOHhL98f7B/+fcdf12SCIMqiZFKiPI0gQlyOAQWBq1LA7NAPSEmyYp
+IWni2cL1RS3hRGmMKvKh3mYi6G1QzG8om82W/gWWMiclXTKu4zvMWS2BGt/PePHA
+wG/I9CsETfz2SlA7zWVHpaJeuJ7tpJU4lCTz7cAcIoyBChCKRRWxNmO7ImEHhKZj
+A8gV/CPqpaWqGZrFOVJ1rKvYopwQFlSqAU0nWOiqgDHKIEVcAKFhIJDBODEMiHWD
+Y86UoLo1aUeJ6zImqZaWnl2dJn6dK5TGa1dXDAjlFYQGDQwHkxYqGFL0Z/5evh/8
+kzpHDo5evnvYj/s9BaUh1DE+nHi54PnI5vDNqbW9HY+62lpXpQa8SpX01na07Wy+
+trlqT9rY9n3ClZavM452V4ypbJ0+/eOcq3tyauz2h6/ehd7Il+GVFYUlPcV1kc+v
+J4cvFe940vJuzbiFb7VFNcXHyktC7ZGmZPZFU/mkOdvNvrLuidEy81xj07LOo/ty
+LYfO3/zU1r20Z2V406kbZ5LP1j0sv/X4wBlwf1pqU4t943LVxrHnno7yBy3cor05
+cXpWfsStHEr2zly+ZN38s9nPW1d0HN71Zl77mPEPyd3WO7n1nUkzmt/Zt//Kxdlv
+R0xBRYuLnm24N63x8sqJZRv1b4XNZ5823PsFmH9JjQ==
+=c9g1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/asiertejada
+
+==================================================================
