@@ -59,7 +59,7 @@ a.site-title:hover {
     font-family: 'Lato', 'Helvetica Neue', Helvetica;
     line-height: auto;
     display: inline-block;
-    
+
     position: relative;
 
     .menu-icon {
@@ -121,7 +121,7 @@ a.site-title:hover {
 .pagination .previous a:before {
 	font-family: "FontAwesome";
 	content: "\f0d9";
-	padding-right: 5px;	
+	padding-right: 5px;
 }
 
 .pagination .next {
@@ -131,7 +131,7 @@ a.site-title:hover {
 .pagination .next a:after {
 	font-family: "FontAwesome";
 	content: "\f0da";
-	padding-left: 5px;	
+	padding-left: 5px;
 }
 
 
@@ -150,7 +150,7 @@ a.site-title:hover {
 	max-width: 720px;
 }
 
-.site-footer .social-icons, 
+.site-footer .social-icons,
 .site-footer .copyright {
     width: 100%;
     padding: 0;
@@ -180,7 +180,7 @@ a.site-title:hover {
     float: none;
     padding-bottom: 3.75rem;
 }
-    
+
 .site-footer .social-icons a {
       color: black;
 }
@@ -192,29 +192,33 @@ span.fa-stack i.fa-hover {
 span.fa-stack:hover i.fa-no-hover {
     display: none;
 }
-    
+
 span.fa-stack:hover i.fa-hover{
     display: inline;
 }
-  
+
 span.twitter:hover i.fa-circle {
     color: #56acee;
 }
-    
+
 span.facebook:hover i.fa-circle {
     color: #3b5998;
 }
-    
+
 span.google-plus:hover i.fa-circle {
     color: #dd4b39;
 }
-    
+
 span.github:hover i.fa-circle {
     color: #952098;
 }
-    
+
 span.github:hover i.fa-github {
     color: white;
+}
+
+span.deviantart:hover i.fa-deviantart {
+    color: #05cc47;
 }
 
 .cf:before,
@@ -246,7 +250,7 @@ h1.page-title {
     text-transform: uppercase;
     word-spacing: 5px;
     margin: 0;
-    
+
     @include media-query($on-mobile) {
         font-size: 45px;
     }
@@ -323,26 +327,26 @@ a.post-link:hover {
 	max-width: 100%;
 	height: auto;
 	display: block;
-	-webkit-transition: .07s ease-in;  
+	-webkit-transition: .07s ease-in;
 	-moz-transition: .07s ease-in;
-	transition: .07s ease-in; 
+	transition: .07s ease-in;
 }
 
 .featured-image-bw img {
 	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
  	filter: gray;
  	-webkit-filter: grayscale(100%);
- 	-webkit-transition: .07s ease-in;  
+ 	-webkit-transition: .07s ease-in;
 	-moz-transition: .07s ease-in;
-	transition: .07s ease-in; 
+	transition: .07s ease-in;
 }
 
 .featured-image-bw img:hover {
  	filter: none;
  	-webkit-filter: grayscale(0%);
- 	-webkit-transition: .07s ease-in;  
+ 	-webkit-transition: .07s ease-in;
 	-moz-transition: .07s ease-in;
-	transition: .07s ease-in; 
+	transition: .07s ease-in;
 }
 
 .post-excerpt {
@@ -352,7 +356,7 @@ a.post-link:hover {
     line-height: 30px;
 	color: #aaa;
 	border-bottom: solid 1px #eee;
-	border-top: solid 1px #eee;   
+	border-top: solid 1px #eee;
 }
 
 .post-excerpt > p {
@@ -373,7 +377,7 @@ div.excerpt-link {
 .excerpt-link a:hover:after {
 	font-family: "FontAwesome";
 	content: "\f105";
-	padding-left: 5px;	
+	padding-left: 5px;
 	font-size: 16px;
 	line-height: 16px;
 }
@@ -384,7 +388,7 @@ div.excerpt-link {
  * Posts
  */
 
-.post-header { 
+.post-header {
     height: 50vw;
     background-color: $background-color;
 }
@@ -440,7 +444,7 @@ a.external:after {
     font-family: "FontAwesome";
 //	content: "\f14c";
     content: "\f0c1";
-	padding-left: 2%;	
+	padding-left: 2%;
 	font-size: inherit;
 	line-height: inherit;
 }
@@ -449,9 +453,9 @@ a.external:after {
     width: 100%;
     -webkit-filter: contrast(80%);
     -webkit-filter: brightness(80%);
-    -webkit-transition: .07s ease-in;  
+    -webkit-transition: .07s ease-in;
 	-moz-transition: .07s ease-in;
-	transition: .07s ease-in; 
+	transition: .07s ease-in;
 }
 
 .no-featured-image {
@@ -515,7 +519,7 @@ a.external:after {
         font-size: 32px;
         padding-top: $spacing-unit;
         padding-bottom: 12px;
-        
+
         @include media-query($on-mobile) {
             font-size: 28px;
         }
@@ -608,7 +612,7 @@ a.external:after {
 
 .tag-box a:hover {
     background-color: $contrast-color;
-    
+
     span {
         color: $contrast-color;
     }
@@ -625,7 +629,7 @@ a.external:after {
     border-radius: 50%;
     background-color: #fff;
     color: $brand-color;
-    padding: 1px;   
+    padding: 1px;
 }
 
 
@@ -636,25 +640,25 @@ a.external:after {
     .post-link {
         max-width: 100%;
     }
-    
+
     .post-link h2 {
         line-height: 32px;
     }
-    
+
     a.post-link {
         font-size: 28px;
         line-height: 32px;
         word-spacing: 3px;
     }
-    
+
     .post-header {
         height: 48vw;
     }
-    
+
     .post-title h1 {
    	    width: 100%;
   	    font-size: 20px;
-  	    line-height: 22px; 
+  	    line-height: 22px;
         position: relative;
     }
 }
@@ -663,7 +667,7 @@ a.external:after {
     .post-title h1 {
    	    width: 100%;
   	    font-size: 28px;
-  	    line-height: 32px; 
+  	    line-height: 32px;
         position: absolute;
     }
 }
@@ -677,7 +681,7 @@ a.external:after {
         float: none;
         text-align: center;
     }
-    
+
     .site-description, .site-nav {
         display: block;
         float: none;
@@ -688,29 +692,29 @@ a.external:after {
     .wrapper {
         width: auto;
     }
-    
+
     .pagination .previous, .pagination .next {
         float: none;
         text-align: center;
     }
 }
-    
-@media only screen and (min-width: 420px) { 
+
+@media only screen and (min-width: 420px) {
     .site-footer-inside {
         padding: 0px 25px;
     }
-    
+
     .site-footer .social-icons,
     .site-footer .copyright {
         width: auto;
         padding: 5rem 0;
     }
-    
+
     .site-footer .copyright {
         text-align: left;
         float: left;
     }
-    
+
     .site-footer .social-icons {
         text-align: right;
         float: right;

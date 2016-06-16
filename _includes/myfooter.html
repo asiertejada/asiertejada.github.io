@@ -4,7 +4,7 @@
 		<a class="overlay" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES"><img alt="Licencia de Creative Commons" style="border-width:0" src="{{ site.url }}/assets/img/by-nc-sa.png" width="224" height="42" /></a>
 	</div>
     <div class="social-icons">
-        
+
         {% if site.twitter_username %}
         <a href="http://twitter.com/{{ site.twitter_username }}">
             <span class="fa-stack fa-lg twitter">
@@ -51,6 +51,16 @@
                 <i class="fa fa-github fa-stack-2x fa-inverse fa-no-hover"></i>
                 <i class="fa fa-circle fa-stack-2x fa-hover"></i>
                 <i class="fa fa-github fa-stack-2x fa-inverse fa-hover"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.deviantart_username %}
+        <a href="http://{{ site.deviantart_username }}.deviantart.com">
+            <span class="fa-stack fa-lg deviantart">
+                <i class="fa fa-circle fa-stack-2x fa-inverse fa-no-hover"></i>
+                <i class="fa fa-deviantart fa-stack-1x fa-no-hover"></i>
+                <i class="fa fa-circle fa-stack-2x fa-hover"></i>
+                <i class="fa fa-deviantart fa-stack-1x fa-inverse fa-hover"></i>
             </span>
         </a>
         {% endif %}
