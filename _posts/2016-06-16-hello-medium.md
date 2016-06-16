@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Hello Medium
-date: 2016-06-16 00:00:01
+date: 2016-06-16 00:00:01 +0100
 categories: blog
 tags: jekyll medium wordpress
 featured_image: hello-medium.jpg
