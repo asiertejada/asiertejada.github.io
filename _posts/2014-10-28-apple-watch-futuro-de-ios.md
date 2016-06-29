@@ -2,7 +2,7 @@
 layout: blog
 title: Apple Watch y el Futuro de iOS
 date: 2014-10-28 12:04:00
-categories: Enlazados
+categories: enlazados
 tags: apple ios watch
 featured_image: apple-watch-futuro-de-ios.png
 images_folder: apple-watch-futuro-de-ios
@@ -10,7 +10,7 @@ external_url: http://9to5mac.com/2014/10/22/apple-watch-home-screen-design-iphon
 ---
 La semana pasada me encontré con un concepto sobre la aplicación de la interfaz del futuro *Apple Watch* a *iOS* que me parece francamente interesante.<Sigue Leyendo>
 
-Posiblemente tardaríamos algo en adaptarnos, sobre todo si no hemos usado nunca un *Apple Watch*, pero la verdad es que el concepto tiene su miga y no me parece para nada descabellado, especialmente tras la decisión de *Apple* de incrementar el tamaño de las pantallas del *iPhone* y las consecuencias que de ello derivan. 
+Posiblemente tardaríamos algo en adaptarnos, sobre todo si no hemos usado nunca un *Apple Watch*, pero la verdad es que el concepto tiene su miga y no me parece para nada descabellado, especialmente tras la decisión de *Apple* de incrementar el tamaño de las pantallas del *iPhone* y las consecuencias que de ello derivan.
 
 Una interfaz para *iOS* basada en la del *Apple Watch* podría aportar no sólo frescura sino bastantes ventajas de usabilidad. Habrá que ver si Jony Ive y los suyos ya han pensado en ello o no.
 
@@ -18,7 +18,7 @@ De momento, el desarrollador [Lucas Menge](https://twitter.com/lmmenge), al pare
 
 <div class='embed-container'><iframe src="//www.youtube.com/embed/UggYGThmFEo" frameborder="0" allowfullscreen></iframe></div>
 
-No pinta nada mal, ¿verdad? 
+No pinta nada mal, ¿verdad?
 
 Y ya puestos a soñar, no sería también maravilloso que esta animación conceptual, originalmente diseñada para el *Apple Watch*, nos recibiera al iniciar nuestros *iCacharros*.
 
