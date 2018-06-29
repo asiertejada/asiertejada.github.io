@@ -7,26 +7,26 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
-  
+
   <!-- CSS Critical Path -->
   <style>body,h1, h2,p,ul{margin: 0;padding: 0;}body{font-family: "Merriweather", "Georgia", Serif;font-size: 22px;line-height: 1.818;font-weight: 300;color: #373737;background-color: #fdfdfd;-webkit-text-size-adjust: 100%;}@media screen and (max-width: 420px) {body { font-size: 18px;}}body.default{background-color: #00a9e0;}h1, h2,ul{margin-bottom: 20px;}p{margin-bottom: 40px;}img{max-width: 100%;vertical-align: middle;display: block;margin: 0 auto;}ul{margin-left: 40px;}h1, h2{font-family: 'Lato', 'Helvetica Neue', Helvetica;font-weight: 900;line-height: 1.12;}a{color: #00a9e0;text-decoration: none;}.wrapper{max-width: -webkit-calc(780px - (40px * 2));max-width: calc(780px - (40px * 2));margin-right: auto;margin-left: auto;padding-right: 40px;padding-left: 40px;}@media screen and (max-width: 420px) {.wrapper { max-width: -webkit-calc(420px - (40px));max-width: calc(420px - (40px));padding-right: 20px;padding-left: 20px;}}.wrapper:after{content: "";display: table;clear: both;}.site-header{width: 100%;position: relative;background: #00a9e0;min-height: 87px;}.header-inside{margin: 0 auto;max-width: 720px;padding: 26px 0;}.site-title{margin: 0;display: inline-block;line-height: 0;}a.site-title{font-family: 'Lato', 'Helvetica Neue', Helvetica;letter-spacing: 0;font-size: 11px;letter-spacing: 2px;text-transform: uppercase;line-height: 22px;font-weight: normal;padding: 1px 7px 0 10px;margin: 0 8px 0 0;color: #fff;border: solid 2px #fff;display: inline-block;}.site-description{font-size: 13px;font-weight: 300;font-style: italic;letter-spacing: 0;color: rgba(255, 255, 255, 0.75);margin: 0;display: inline-block;}.site-nav{float: right;font-family: 'Lato', 'Helvetica Neue', Helvetica;line-height: auto;display: inline-block;position: relative;}.site-nav .menu-icon{display: none;}.site-nav .page-link{color: #fff;line-height: 41px;font-size: 16px;}.site-nav .page-link:not(:first-child){margin-left: 20px;}span.fa-stack i.fa-hover{display: none;}.post-header{height: 50vw;background-color: #fdfdfd;}.post-title{width: 90%;margin: 0 auto;height: auto;position: relative;bottom: 21vw;text-align: center;}.post-title h1{font-size: 50px;line-height: 56px;font-weight: 900;text-transform: uppercase;word-spacing: 5px;margin: 0 0 22px 0;color: #fff;width: 100%;}.full-featured-image{width: 100%;-webkit-filter: contrast(80%);-webkit-filter: brightness(80%);}.home-icon{font-family: 'Lato', 'Helvetica Neue', Helvetica;font-size: 36px;line-height: 1em;font-weight: 700;display: inline-block;text-align: center;vertical-align: middle;width: 36px;height: 36px;position: fixed;top: 10px;left: 10px;color: #fff;background-color: #00a9e0;border: solid 3px #fff;outline: solid 4px #00a9e0;z-index: 10;}.reading-time{font-family: 'Lato', 'Helvetica Neue', Helvetica;font-size: 16px;font-weight: 400;position: absolute;top: 15px;right: 15px;color: #fff;border: 2px solid #fff;padding: 0 8px 0 7px;border-radius: 5px;}.reading-time p{margin: 0;}.post-content{padding-top: 40px;background-color: #fdfdfd;}@media all and (max-device-width: 420px) {.post-header { height: 48vw;}  .post-title h1{width: 100%;font-size: 20px;line-height: 22px;position: relative;}}@media all and (min-width: 420px) and (max-width: 736px) {.post-title h1 { width: 100%;font-size: 28px;line-height: 32px;position: absolute;}}@media only screen and (max-width: 420px) {.wrapper { width: auto;}}.page-content{padding-top: 40px;background-color: #fdfdfd;}.post-list{font-family: 'Lato', 'Helvetica Neue', Helvetica;margin-left: 0;list-style: none;width: 100%;}.post-list > li{margin-bottom: 8px;border-bottom: solid 1px #eee;}.post-meta{color: #aaa;font-family: 'Lato', 'Helvetica Neue', Helvetica;font-size: 12px;font-weight: 400;text-transform: uppercase;margin-bottom: 0px;width: 100%;display: inline-block;}.post-link h2{width: 100%;left: 0;position: relative;line-height: 56px;}a.post-link{font-size: 50px;line-height: 56px;font-weight: 900;text-transform: uppercase;word-spacing: 5px;margin: 0 0 22px 0;color: #444;width: 100%;}.featured-image{width: 100%;display: block;position: relative;margin-bottom: 4%;}.featured-image img{min-width: 100%;max-width: 100%;height: auto;display: block;}.featured-image-bw img{filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");filter: gray;-webkit-filter: grayscale(100%);}.post-excerpt{font-family: 'Lato', 'Helvetica Neue', Helvetica;font-style: italic;font-size: 18px;line-height: 30px;color: #aaa;border-bottom: solid 1px #eee;border-top: solid 1px #eee;}.post-excerpt > p{margin-bottom: 15px;}div.excerpt-link{margin: 16px 0 100px 0;}.excerpt-link a{font-family: 'Lato', 'Helvetica Neue', Helvetica;text-transform: uppercase;font-size: 14px;font-weight: 500;}@media all and (max-device-width: 420px) {.post-link { max-width: 100%;}  .post-link h2{line-height: 32px;}  a.post-link{font-size: 28px;line-height: 32px;word-spacing: 3px;}}@media only screen and (max-width: 420px) {a.site-title { display: block;width: 129px;margin: 0 auto;float: none;text-align: center;}  .site-description,  .site-nav{display: block;float: none;text-align: center;margin-top: 5px;}  .wrapper{width: auto;}}</style>
-    
+
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-    
-    
-    
+
+
+
   <!-- Canonical URL -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    
-    
-  <!-- CSS -->    
+
+
+  <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.url }}">
-  <link rel="stylesheet" href="{{ site.url }}/assets/css/bigfoot-default.css">    
-    
-    
-    
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/bigfoot-default.css">
+
+
+
   <!-- Fonts -->
   <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/assets/css/lato.min.css" | prepend: site.url }}">
@@ -36,8 +36,8 @@
   <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300italic,300,700,400italic,700italic,900italic,900' rel='stylesheet' type='text/css'>
 -->
 
-    
-    
+
+
   <!-- Twitter Cards -->
   {% if site.twitter_username %}
     {% if page.featured_image %}
@@ -52,8 +52,8 @@
   <meta name="twitter:creator" content="@{{ site.twitter_username }}">
   {% endif %}
 
-    
-    
+
+
   <!-- Open Graph -->
   <meta property="og:locale" content="es_ES">
   <meta property="og:type" content="article">
@@ -67,8 +67,13 @@
     <meta property="og:image" content="{{ site.url }}/assets/img/el-blog-de-asier-tejada-osegui-el-retorno.png">
   {% endif %}
 
-    
-    
+
+
+  <!-- Facebook Instant Articles -->
+  <meta property="fb:pages" content="742922539104776" />
+
+
+
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
@@ -76,7 +81,7 @@
 
 
 
-    
+
   <!-- Favicons -->
   <!-- 16x16 -->
   <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
@@ -86,7 +91,7 @@
    <link rel="apple-touch-icon" href="{{ site.url }}/apple-touch-icon.png">
   <!-- Apple precomposed icon -->
   <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/apple-touch-icon-precomposed.png">
-  <!-- Other Apple sizes and meta for iOS mobile web app--> 
+  <!-- Other Apple sizes and meta for iOS mobile web app-->
   <link rel="apple-touch-icon" sizes="57x57" href="/{{ site.url }}/assets/img/favicons/apple-touch-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="114x114" href="/{{ site.url }}/assets/img/favicons/apple-touch-icon-114x114.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/{{ site.url }}/assets/img/favicons/apple-touch-icon-72x72.png">
@@ -103,21 +108,21 @@
   <link rel="icon" type="image/png" href="{{ site.url }}/assets/img/favicons/favicon-96x96.png" sizes="96x96">
   <link rel="icon" type="image/png" href="{{ site.url }}/assets/img/favicons/favicon-16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="{{ site.url }}/assets/img/favicons/favicon-32x32.png" sizes="32x32">
-  <!-- Meta for Windows Mobile --> 
+  <!-- Meta for Windows Mobile -->
   <meta name="msapplication-TileColor" content="#00a9e0">
   <meta name="msapplication-TileImage" content="{{ site.url }}/assets/img/favicons/mstile-144x144.png">
   <meta name="application-name" content="ASIERTEJADA.COM">
-    
-    
 
-    
+
+
+
   <!-- jQuery -->
-  <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>    
+  <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>
   <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/jquery-1.11.1.min.js"><\/script>')</script>
-  
+
   <!-- Scroll makes background color change -->
   <script type="text/javascript">
-    $(window).scroll(function() {    
+    $(window).scroll(function() {
       var scroll = $(window).scrollTop();
 
       if (scroll >= 500) {
@@ -128,7 +133,7 @@
     });
   </script>
 
-    
+
   <!-- Bigfoot -->
   <script type="text/javascript" src="/assets/js/bigfoot.js"></script>
   <script type="text/javascript">
@@ -138,8 +143,8 @@
         positionContent: "true"
       }
 	);
-  </script>   
-    
+  </script>
+
   <!-- My custom Google search box -->
   <script language="Javascript" type="text/javascript">
     function my_search_google() {
@@ -147,7 +152,7 @@
     window.open("http://google.com/search?q=" + query + "%20site:" + "http://asiertejada.github.io");
     }
   </script>
-    
+
   <!-- Google Analytics -->
   {% if site.google_analytics %}
     <script>
@@ -160,6 +165,6 @@
       ga('require', 'displayfeatures');
       ga('send', 'pageview');
     </script>
-  {% endif %}  
-    
+  {% endif %}
+
 </head>
