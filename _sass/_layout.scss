@@ -145,7 +145,7 @@ a.site-title:hover {
 }
 
 .site-footer-inside {
-    padding: 0;
+	padding: 0;
 	margin: 0 auto;
 	max-width: 720px;
 }
@@ -167,11 +167,11 @@ a.site-title:hover {
 }
 
 .site-footer .copyright a {
-      color: white;
+    color: white;
 }
 
 .site-footer .copyright a:hover {
-      color: #00a9e0;
+    color: #00a9e0;
 }
 
 .site-footer .social-icons {
@@ -182,7 +182,7 @@ a.site-title:hover {
 }
 
 .site-footer .social-icons a {
-      color: black;
+    color: black;
 }
 
 span.fa-stack i.fa-hover {
@@ -223,6 +223,10 @@ span.deviantart:hover i.fa-deviantart {
 
 span.deviantart:hover i.fa-circle {
     color: white;
+}
+
+span.dribbble:hover i.fa-dribbble {
+    color: #ea4c89;
 }
 
 .cf:before,
